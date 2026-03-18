@@ -25,8 +25,8 @@ Enterprise baseline templates and automation for Microsoft Purview / Microsoft 3
 - Purview account for classification APIs (if used)
 
 ## Notes
-- Test in a lab tenant before production.
-- Store secrets in Azure Key Vault; do not hardcode credentials.
+1. Test in a lab tenant before production.
+2. Store secrets in Azure Key Vault; do not hardcode credentials.
 
 ---
 
