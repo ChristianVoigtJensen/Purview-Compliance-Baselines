@@ -30,7 +30,7 @@ Enterprise baseline templates and automation for Microsoft Purview / Microsoft 3
 
 ---
 
-## 💼 Consulting & Deployment Packages
+##  Consulting & Deployment Packages
 
 This repository includes deployable automation and templates.  
 If you need help implementing it in your environment, the following services are available:
@@ -41,7 +41,7 @@ If you need help implementing it in your environment, the following services are
 | **Standard Deployment** | Full discovery workshop, deployment of up to 5 labels + 3 retention rules + automated rollout | 7–10 days | **$9,500** |
 | **Enterprise Program** | End-to-end governance, automation, evidence packs, reporting, training, and operational support | 3–5 weeks | **$22,000** |
 
-📌 Optional Add-Ons:
+Optional Add-Ons:
 
 - Additional DLP Rules → **$750 each**
 - Classification Rule Development → **$1,250 each**
